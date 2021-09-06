@@ -18,7 +18,7 @@ Inventory Management System :-->By using this we can add,update,delete Items/Pro
    - enter change in price for update ( Enter True for = increase ,Enter False for = decrease )
   
    ii)else if dosen't exist we can add products in to Inventory.
-   Earlier in database : Total products were = 18; for ex let's add 12 more new products in to database
+   Earlier in database : Total products were = 18; for ex let's add 12 more new products in to database,and now total products in inventory/database = 30.
    
    2) deletion of an item/product from the database/Inventory
    
@@ -36,4 +36,4 @@ Inventory Management System :-->By using this we can add,update,delete Items/Pro
   
   iv) creating a sales.json file for recording the total products sold and it's basic details like - product_id,quantity,total amount,date-and-time_details,and user phone number.
   
-  v) in the end updating the Inventory/database products.¶
+  v) in the end updating the Inventory/database products.
